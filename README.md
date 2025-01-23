@@ -3,7 +3,7 @@
 - 👀 I’m interested in Flutter development, creative app design, and solving challenging UI problems.  
 - 🌱 I’m currently learning about advanced Flutter animations and Firebase integration.  
 - 💞️ I’m looking to collaborate on innovative mobile app projects.  
-- 📫 How to reach me: maryamxonmeliboyeva@gmail.com or [LinkedIn](https://linkedin.com/in/maryamxon meliboyeva)  
+- 📫 How to reach me: maryamxonmeliboyeva@gmail.com  
 - 😄 Pronouns: She/Her 
 ⚡ Fun fact: I completed building a prayer times app in just one week! 🚀
 
